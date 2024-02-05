@@ -10,6 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 authors =  [
     {name = "Suno Inc", email = "hello@suno.ai"},
+    {name = "Suno Inc", email = "info@suno.ai"},
 ]
 # Apache 2.0
 license = {file = "LICENSE"}
